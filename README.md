@@ -1,3 +1,4 @@
+
 # StudentSpace — Favorite Student List
 
 A responsive React project featuring:
@@ -61,3 +62,7 @@ favorite-student-list/
 
 ## Customize
 Edit `src/data/students.js` to change the sample students. Favorites are saved in your browser, so they remain after refreshing the page.
+
+# favorite-student-list
+Developed an interactive and responsive student directory using React, React Router, and Framer Motion, featuring student search, course filtering, sorting, and profile navigation. Implemented favorite management using Local Storage, reusable components, and smooth animations for an enhanced user experience.
+
